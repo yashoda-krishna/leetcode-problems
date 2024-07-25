@@ -4,7 +4,6 @@ package test_app1;
 
 
 680. Valid Palindrome II
-Easy
 
 
 
