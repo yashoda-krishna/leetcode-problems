@@ -1,10 +1,19 @@
 # 💫 About Me:
-                              Hi 👋! My name is Yashoda Krishna.<br> <br>                                             I'm   an NCC  Cadet 👮<br>             Data Analyst | Prompt Engineer | Software Developer |<br>                                AI Developer | Web Developer🧑‍💻<br><br><br>          I'm  not a Great Programmer; I'm a Good Programmer with great Habits 💪<br><br>                          I'm working on Ai Smart Attendance<br><br>                                       Started with a little bit ;<br>                                  Now I don't know how to quit !<br><br><br>
+  <h1 align="center"> <b> Whoami ?  </b> </h1>
 
-<img align="right" height="150" src="https://i.postimg.cc/05SvGNm1/IMG-20211202-175937-333.jpg"  />
+<h4 align="center"> I’m Yashoda Krishna <I> aka </I>  </h4>
+
+<h4 align="center"> I am an NCC Cadet 👮 </h4>
+<h4 align="center"> Data Analyst | Prompt Engineer | Software Developer 🧑‍💻  :face_in_clouds:     </h4>                                                           
+<h4 align="center">         AI Developer | Web Developer🧑‍💻         :face_in_clouds: </h4>
+<h4 align="center">  <b><i>" I'm  not a Great Programmer; I'm a Good Programmer with great Habits" :muscle: </i></b> </h4>
+<br></br>
+
+<h5 align="center"> <a href="https://yashoda-krishna.github.io/">Check out My Website (in progress) </a> </h5>
 
 ###
 
+## Connect with me
 
 
 <div align="left">
