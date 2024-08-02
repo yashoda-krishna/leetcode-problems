@@ -1,7 +1,7 @@
 # 💫 About Me:
   <h1 align="center"> <b> Whoami ?  </b> </h1>
 
-<h4 align="center"> I’m Yashoda Krishna <I> aka </I>  </h4>
+<h4 align="center"> I’m Yashoda Krishna <I>  </I>  </h4>
 
 <h4 align="center"> I am an NCC Cadet 👮 </h4>
 <h4 align="center"> Data Analyst | Prompt Engineer | Software Developer 🧑‍💻  :face_in_clouds:     </h4>                                                           
