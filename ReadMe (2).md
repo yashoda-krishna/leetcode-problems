@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
    <a href="https://leetcode.com/u/yashodhak02/" target="_blank">
-    <img src="https://i.postimg.cc/Zq6C2D5s/Leet-Code-Sharing.png?message=leetcode&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
+    <img src="https://i.postimg.cc/Zq6C2D5s/Leet-Code-Sharing.png?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
   </a>
 </div>
 ###
